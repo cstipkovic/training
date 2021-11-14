@@ -1,0 +1,9 @@
+.stop-button {
+  background-color: #bf4443;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.stop-button:hover {
+  background-color: #d94b4a;
+}
