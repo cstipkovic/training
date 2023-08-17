@@ -1,3 +1,3 @@
 const b = 3;
 
-b = 4;
+console.log(b);
